@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/MushRemake/.github/main/profile/assets/banner.png" alt="Mush" />
 </p>
 
-# Mush
+# 🍄 Mush
 
-> O remake da rede de servidores Mush.
+> A melhor replica da rede de servidores
 
 A **MushRemake** e a organizacao oficial responsavel pela reconstrucao da Mush. Aqui reunimos o codigo, as ferramentas e a infraestrutura que fazem parte desse novo capitulo da rede.
 
@@ -19,4 +19,4 @@ Estamos reconstruindo a experiencia Mush com cuidado pela comunidade e foco em u
 
 ---
 
-Feito pela equipe Mush.
+Feito por divou
