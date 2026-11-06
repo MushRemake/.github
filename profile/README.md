@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MushRemake/.github/main/profile/assets/banner.png" alt="Mush" />
+</p>
+
 # Mush
 
 > O remake da rede de servidores Mush.
