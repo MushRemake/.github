@@ -14,8 +14,8 @@ Estamos reconstruindo a experiencia Mush com cuidado pela comunidade e foco em u
 
 ## Acompanhe
 
-- Site: [mush.com.br](https://mush.com.br)
-- Contato: [contato@mush.com.br](mailto:contato@mush.com.br)
+- Site: [mushremake.com.br](https://mushremake.com.br)
+- Contato: [contato@mushremake.com.br](mailto:contato@mushremake.com.br)
 
 ---
 
